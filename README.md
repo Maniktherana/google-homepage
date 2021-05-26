@@ -39,6 +39,7 @@ From The Odin Project's [curriculum](https://www.theodinproject.com/courses/foun
 * Regular commenting of code.
 * Code can be cleaner.
 * Site can be more responsive.
+* Looks terrible on mobile.
 
 ## Author
 
