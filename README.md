@@ -6,6 +6,8 @@ From The Odin Project's [curriculum](https://www.theodinproject.com/courses/foun
 
 🔗 **Live preview:** [here](https://maniktherana.github.io/google-homepage/)
 
+📸 **Screenshot:** ![screenshot](./screenshot.png)
+
 ## Built with
 
 ### Technologies
